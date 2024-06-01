@@ -1,1 +1,7 @@
 .vscode
+errors.txt
+traceback.txt
+
+renpy-graphviz.config
+renpy-graphviz.dot
+renpy-graphviz.png
