@@ -1,0 +1,542 @@
+<mxfile host="app.diagrams.net" modified="2024-06-01T14:56:20.640Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="Kt9KROEqeW0KWUJel7V-" version="24.4.13" type="device">
+  <diagram name="Page-1" id="sqgGwhEV_GjQArwiOGN7">
+    <mxGraphModel dx="993" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-177" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1495" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-166" target="PP8JBiG7WQsKUMvrTm2i-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-166" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="331.25" y="1320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-163" target="PP8JBiG7WQsKUMvrTm2i-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-163" target="PP8JBiG7WQsKUMvrTm2i-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-163" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="1100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-151" target="PP8JBiG7WQsKUMvrTm2i-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="395" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-151" target="PP8JBiG7WQsKUMvrTm2i-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-151" target="PP8JBiG7WQsKUMvrTm2i-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-151" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-147" target="PP8JBiG7WQsKUMvrTm2i-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-147" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="330" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-177" target="PP8JBiG7WQsKUMvrTm2i-112">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="553.75" y="1545.0000000000005" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-142" target="PP8JBiG7WQsKUMvrTm2i-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-142" target="PP8JBiG7WQsKUMvrTm2i-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-3" target="PP8JBiG7WQsKUMvrTm2i-147">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="715" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="200" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-4" value="Lisa décide de rester travailler" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PP8JBiG7WQsKUMvrTm2i-3">
+          <mxGeometry x="45" y="10" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-5" target="PP8JBiG7WQsKUMvrTm2i-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-5" target="PP8JBiG7WQsKUMvrTm2i-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-5" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-6" value="Lisa va prendre un café" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PP8JBiG7WQsKUMvrTm2i-5">
+          <mxGeometry x="45" y="10" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-7" target="PP8JBiG7WQsKUMvrTm2i-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-7" target="PP8JBiG7WQsKUMvrTm2i-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-7" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="270" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-8" value="Lisa va à l&#39;imprimante" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PP8JBiG7WQsKUMvrTm2i-7">
+          <mxGeometry x="45" y="10" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="PP8JBiG7WQsKUMvrTm2i-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="397.55555555555543" y="90" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-13" target="PP8JBiG7WQsKUMvrTm2i-144">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-13" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="330" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-14" value="Lisa Retourne travailler" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PP8JBiG7WQsKUMvrTm2i-13">
+          <mxGeometry x="45" y="10" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-24" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="440" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-25" value="Lisa demande à Jean de déjeuner avec elle" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PP8JBiG7WQsKUMvrTm2i-24">
+          <mxGeometry x="27.5" y="10" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.601;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-32" target="PP8JBiG7WQsKUMvrTm2i-158">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="825" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-32" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="670" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-33" value="Lisa va manger avec Jean" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PP8JBiG7WQsKUMvrTm2i-32">
+          <mxGeometry x="35" y="10" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-34" target="PP8JBiG7WQsKUMvrTm2i-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-34" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="670" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-35" value="Lisa va manger avec Son amie" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PP8JBiG7WQsKUMvrTm2i-34">
+          <mxGeometry x="35" y="10" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-37" target="PP8JBiG7WQsKUMvrTm2i-158">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="825" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-37" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="670" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-38" value="Lisa mange seule" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PP8JBiG7WQsKUMvrTm2i-37">
+          <mxGeometry x="35" y="10" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-147" target="PP8JBiG7WQsKUMvrTm2i-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="752.5" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-44" target="PP8JBiG7WQsKUMvrTm2i-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-44" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="490" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-45" value="Oui" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PP8JBiG7WQsKUMvrTm2i-44">
+          <mxGeometry x="-2.5" y="10" width="72.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-46" target="PP8JBiG7WQsKUMvrTm2i-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-46" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="490" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-47" value="Non" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PP8JBiG7WQsKUMvrTm2i-46">
+          <mxGeometry x="-2.5" y="10" width="72.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-60" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-24" target="PP8JBiG7WQsKUMvrTm2i-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="128" y="490" as="sourcePoint" />
+            <mxPoint x="210" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-63" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1130" y="34.44" as="sourcePoint" />
+            <mxPoint x="1190" y="34.44" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="34.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-64" value="Pour le choix en question il est obligé d&#39;avoir choisi le choix lié au préalable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="956.25" y="20" width="121.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="850" as="sourcePoint" />
+            <mxPoint x="395" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="PP8JBiG7WQsKUMvrTm2i-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="432.5" y="960" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="PP8JBiG7WQsKUMvrTm2i-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="357.5" y="960" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-74" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1010" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-75" value="Lisa escalade la situation finissant en dispute" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PP8JBiG7WQsKUMvrTm2i-74">
+          <mxGeometry x="17.5" y="10" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-76" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1010" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-77" value="Lisa prend son mal en patience" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PP8JBiG7WQsKUMvrTm2i-76">
+          <mxGeometry x="35" y="10" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-84" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-85" target="PP8JBiG7WQsKUMvrTm2i-158">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="900" as="sourcePoint" />
+            <mxPoint x="470" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-85" target="PP8JBiG7WQsKUMvrTm2i-162">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="935" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-85" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="870" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-86" value="Lisa demande à son amie d&#39;aller chercher des documents dans les archives" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PP8JBiG7WQsKUMvrTm2i-85">
+          <mxGeometry x="10" y="10" width="172.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="1319.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-89" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1200" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-90" value="Lisa décide qu&#39;elle va travailler" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PP8JBiG7WQsKUMvrTm2i-89">
+          <mxGeometry x="35" y="10" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-91" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1200" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-92" value="Lisa décide de ne rien faire dutout" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PP8JBiG7WQsKUMvrTm2i-91">
+          <mxGeometry x="35" y="10" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-102" value="&lt;div&gt;Plusieurs scènes sont possibles et vont être listées&lt;/div&gt;&lt;div&gt;par rapport aux choix fait précédemment&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="435" y="1310" width="155" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-106" target="PP8JBiG7WQsKUMvrTm2i-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-106" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="166.25" y="1570" width="127.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-107" target="PP8JBiG7WQsKUMvrTm2i-112">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="1655" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-107" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="1570" width="127.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-108" value="Lisa obtient une promotion" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="358.75" y="1615" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-109" value="Lisa se fait virer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1615" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-110" value="Lisa décide de tuer son patron" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="516.88" y="1510" width="86.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-112" target="PP8JBiG7WQsKUMvrTm2i-142">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840.0464068711932" y="1741.7157287525379" as="sourcePoint" />
+            <mxPoint x="470" y="75" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="437" y="1800" />
+              <mxPoint x="940" y="1800" />
+              <mxPoint x="940" y="75" />
+              <mxPoint x="455" y="75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-112" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="1730" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-113" value="Retour de boucle si conditions de sortie pas remplies" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="1755" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-132" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="80" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-133" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PP8JBiG7WQsKUMvrTm2i-132">
+          <mxGeometry x="45" y="10" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-134">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="104.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-134" value="Bulle représentant un choix" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="90" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-135" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1131.25" y="160" width="127.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-136" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1162.5" y="205" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-137">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="219.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-137" value="Bulle représentant une scène" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="205" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-138" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1131.25" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-139" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1158.75" y="335" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-140">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="349.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-140" value="Bulle représentant un contexte entre les choix" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="335" width="107.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-142" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-143" value="Lisa est devant son bureau" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="55" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-144" target="PP8JBiG7WQsKUMvrTm2i-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-144" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-146" value="Lisa continue de travailler" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="445" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-40" value="L&#39;amie de Lisa lui demande si elle veux s&#39;organiser pour la réunion du soir à venir" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="355" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-28" value="Lisa se décide avec qui elle va manger" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="358.75" y="555" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-158" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="790" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-67" value="Lisa retourne travailler" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="815" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-162" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="910" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-72" value="Sophie parle à Lisa" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="935" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-81" value="Lisa doit retourner travailler" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="1125" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-98" value="Réunion, le patron parle" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="348.75" y="1345" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-168" target="PP8JBiG7WQsKUMvrTm2i-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-168" target="PP8JBiG7WQsKUMvrTm2i-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-168" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1495" width="137.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-169" value="Lisa écoute son patron" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265.63" y="1505" width="86.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-173" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-166">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1410" as="sourcePoint" />
+            <mxPoint x="553.75" y="1495.0000000000005" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="1380" />
+              <mxPoint x="480" y="1400" />
+              <mxPoint x="570" y="1420" />
+              <mxPoint x="530" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-174" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-162" target="PP8JBiG7WQsKUMvrTm2i-180">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="875" as="sourcePoint" />
+            <mxPoint x="113" y="1010" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="159" y="895" />
+              <mxPoint x="250" y="950" />
+              <mxPoint x="190" y="1010" />
+              <mxPoint x="210" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-180" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="46.25" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-181" value="Lisa décide de tuer Sophie" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="63.13" y="1025" width="86.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-184" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry y="355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-185" value="Lisa décide de tuer Jean" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="16.879999999999995" y="370" width="86.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-186" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-7" target="PP8JBiG7WQsKUMvrTm2i-184">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="330" as="sourcePoint" />
+            <mxPoint x="70" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="330" />
+              <mxPoint x="20" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-187" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="415" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-188" value="Lisa décide de tuer son amie" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="826.87" y="430" width="86.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-189" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-147" target="PP8JBiG7WQsKUMvrTm2i-187">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="400" as="sourcePoint" />
+            <mxPoint x="890" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="860" y="290" />
+              <mxPoint x="800" y="415" />
+              <mxPoint x="890" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-190" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="305" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-191" value="Lisa décide de tuer Sophie" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="516.87" y="320" width="86.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-192" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="472.5" y="260" as="sourcePoint" />
+            <mxPoint x="532.5" y="305" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="522.5" y="180" />
+              <mxPoint x="462.5" y="305" />
+              <mxPoint x="530" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-193" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="46.25999999999999" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-194" value="Lisa décide de tuer son amie" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="63.12" y="895" width="86.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-195" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-158" target="PP8JBiG7WQsKUMvrTm2i-193">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="910" as="sourcePoint" />
+            <mxPoint x="250" y="860" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="910" />
+              <mxPoint x="200" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-196" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1166.25" y="480" as="sourcePoint" />
+            <mxPoint x="1216.25" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1216.25" y="480" />
+              <mxPoint x="1166.25" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-197" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1131.25" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-198">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="444.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-198" value="Lien vers un choix discutable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="995" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PP8JBiG7WQsKUMvrTm2i-199">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="554.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8JBiG7WQsKUMvrTm2i-199" value="Choix lié à la branche &quot;génocide&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="993.75" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
