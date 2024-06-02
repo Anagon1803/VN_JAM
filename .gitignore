@@ -1,6 +1,7 @@
 .vscode
 errors.txt
 traceback.txt
+*.save
 
 renpy-graphviz.config
 renpy-graphviz.dot
